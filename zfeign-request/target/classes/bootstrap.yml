@@ -1,0 +1,10 @@
+server:
+  port: 520
+
+spring:
+  application:
+    name: feign-request
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848 #服务注册中心地址

@@ -1,0 +1,3 @@
+com\george\springcloud\service\PaymentService.class
+com\george\springcloud\PaymentHystrixMain8001.class
+com\george\springcloud\controller\PaymentHystrixController.class

@@ -1,0 +1,10 @@
+com\xiaojiang\springcloudalibaba\SeataOrderMainApp2001.class
+com\xiaojiang\springcloudalibaba\service\impl\orderServiceImpl.class
+com\xiaojiang\springcloudalibaba\conf\DataSourceProxyConfig.class
+com\xiaojiang\springcloudalibaba\domain\Order.class
+com\xiaojiang\springcloudalibaba\controller\OrderController.class
+com\xiaojiang\springcloudalibaba\conf\MyBatisConfig.class
+com\xiaojiang\springcloudalibaba\service\OrderService.class
+com\xiaojiang\springcloudalibaba\service\AccountService.class
+com\xiaojiang\springcloudalibaba\service\StorageService.class
+com\xiaojiang\springcloudalibaba\domain\CommonResult.class

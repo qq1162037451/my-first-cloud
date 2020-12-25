@@ -1,0 +1,6 @@
+com\george\myrule\MyselfRule.class
+com\george\springcloud\config\ApplicationContextConfig.class
+com\george\springcloud\lb\MyLoadBalancer.class
+com\george\springcloud\OrderMain80.class
+com\george\springcloud\lb\impl\MyLoadBalancerImpl.class
+com\george\springcloud\controller\OrderController.class

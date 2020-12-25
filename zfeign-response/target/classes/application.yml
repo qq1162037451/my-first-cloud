@@ -1,0 +1,13 @@
+server:
+  port: 521
+
+spring:
+  application:
+    name: feign-response
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+feign:
+  hystrix:
+    enabled: false

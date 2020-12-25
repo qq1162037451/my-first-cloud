@@ -1,0 +1,5 @@
+com\xiaojiang\springcloudalibaba\controller\CircleBreakerController.class
+com\xiaojiang\springcloudalibaba\service\impl\OpenfeignServiceFallback.class
+com\xiaojiang\springcloudalibaba\config\ApplicationContextConfig.class
+com\xiaojiang\springcloudalibaba\service\OpenfeignService.class
+com\xiaojiang\springcloudalibaba\OrderNacosMain84.class

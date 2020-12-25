@@ -1,0 +1,9 @@
+com\xiaojiang\springcloudalibaba\controller\StorageController.class
+com\xiaojiang\springcloudalibaba\conf\DataSourceProxyConfig.class
+com\xiaojiang\springcloudalibaba\domain\Storage.class
+com\xiaojiang\springcloudalibaba\conf\MyBatisConfig.class
+com\xiaojiang\springcloudalibaba\service\impl\StorageServiceImpl.class
+com\xiaojiang\springcloudalibaba\StorageOrderMainApp2002.class
+com\xiaojiang\springcloudalibaba\service\StorageService.class
+com\xiaojiang\springcloudalibaba\dao\StorageDao.class
+com\xiaojiang\springcloudalibaba\domain\CommonResult.class
